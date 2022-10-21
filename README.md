@@ -1,4 +1,8 @@
 # Family-fun-pack-with-Pumpkin-aura
+
+The file in this repository is the built jar file. All these instructions is to build FamilyFunPack with Pumpkin Aura made By Toast.
+You can find the unbuilt FamilyFunPack with Pumpkin Aura on my github (Invincible23411)
+
 Made by RemainingToast this just has clear instructions
 
 https://www.youtube.com/watch?v=5dEgxdLUQoI for clear instructions on how to build everything. 
